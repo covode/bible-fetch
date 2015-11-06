@@ -1,0 +1,3 @@
+#!/usr/bin/env python
+
+print "Ahoy hoy, world"
