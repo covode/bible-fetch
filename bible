@@ -1,8 +1,8 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 from bs4 import BeautifulSoup
 import requests
 
-r = requests.get('https://www.biblegateway.com/passage/?search=Psalm+4&version=NIV&interface=print')
+r = requests.get('https://www.biblegateway.com/passage/?search=Psalm+4&version=NIV')
 soup = BeautifulSoup(r.text)
-print soup.find(class_="result-text-style-normal").text
+print(soup.find(class_="result-text-style-normal").text)
