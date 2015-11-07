@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 from bs4 import BeautifulSoup
-import urllib
+import requests
 
-r = urllib.urlopen('https://www.biblegateway.com/passage/?search=John+3%3A16&version=NIV').read()
-soup = BeautifulSoup(r)
+r = requests.get('https://www.biblegateway.com/passage/?search=Psalm+4&version=NIV&interface=print')
+soup = BeautifulSoup(r.text)
 print soup.find(class_="result-text-style-normal").text
