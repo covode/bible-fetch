@@ -28,7 +28,7 @@ def get_soup(query, version):
 
 def get_passage(soup):
     verses = soup.find(class_="result-text-style-normal").select('p, div.poetry')
-    return "\n".join(map(lambda v : v.text, verses))
+    return "\n\n".join(map(lambda v : v.text, verses))
 
 query, version = parse_args()
 soup = get_soup(query, version)
