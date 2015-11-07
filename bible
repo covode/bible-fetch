@@ -27,7 +27,8 @@ def get_soup(query, version):
     return BeautifulSoup(r.text,  "html.parser")
 
 def get_passage(soup):
-    return soup.find(class_="result-text-style-normal").text
+    verses = soup.find(class_="result-text-style-normal").select('p, div.poetry')
+    return "\n".join(map(lambda v : v.text, verses))
 
 query, version = parse_args()
 soup = get_soup(query, version)
