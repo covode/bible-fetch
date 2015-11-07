@@ -7,7 +7,7 @@ A command line tool for fetching bible passages from biblegateway.com.
 [Beautiful Soup 4](http://www.crummy.com/software/BeautifulSoup/) and [Requests](http://docs.python-requests.org/en/latest/) are required to run bible-fetch.
 
 ```bash
-pip3 install beautifulsoup4 Request
+pip3 install beautifulsoup4 Requests
 ```
 
 ## Running
