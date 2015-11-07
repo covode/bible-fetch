@@ -3,6 +3,16 @@
 from bs4 import BeautifulSoup
 import requests
 
-r = requests.get('https://www.biblegateway.com/passage/?search=Psalm+4&version=NIV')
-soup = BeautifulSoup(r.text,  "html.parser")
-print(soup.find(class_="result-text-style-normal").text)
+def parse_args():
+    return 'Psalm 4', 'NIV'
+
+def get_soup(query, version):
+    r = requests.get('https://www.biblegateway.com/passage/?search=' + query + '&version=' + version)
+    return BeautifulSoup(r.text,  "html.parser")
+
+def get_passage(soup):
+    return soup.find(class_="result-text-style-normal").text
+
+query, version = parse_args()
+soup = get_soup(query, version)
+print(get_passage(soup))
