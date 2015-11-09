@@ -41,7 +41,7 @@ def render(tag):
     return text
 
 def get_passage(soup):
-    tags = soup.find(class_="result-text-style-normal").select('p, div.poetry')
+    tags = soup.find(class_="result-text-style-normal").select('p, div.poetry p')
     return "\n\n".join(map(lambda t : render(t), tags))
 
 query, version = parse_args()
