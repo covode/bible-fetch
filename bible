@@ -32,7 +32,13 @@ def clean(tag):
 
 def render(tag):
     clean(tag)
-    return tag.text
+    text = ''
+    for t in tag.descendants:
+        if isinstance(t, str):
+            text += t
+        elif t.name == 'br':
+            text += '\n'
+    return text
 
 def get_passage(soup):
     tags = soup.find(class_="result-text-style-normal").select('p, div.poetry')
