@@ -26,9 +26,17 @@ def get_soup(query, version):
     r = requests.get('https://www.biblegateway.com/passage/?search=' + query + '&version=' + version)
     return BeautifulSoup(r.text,  "html.parser")
 
+def clean(tag):
+    for t in tag.find_all('sup', class_=lambda x: x != 'versenum'):
+        t.decompose()
+
+def render(tag):
+    clean(tag)
+    return tag.text
+
 def get_passage(soup):
-    verses = soup.find(class_="result-text-style-normal").select('p, div.poetry')
-    return "\n\n".join(map(lambda v : v.text, verses))
+    tags = soup.find(class_="result-text-style-normal").select('p, div.poetry')
+    return "\n\n".join(map(lambda t : render(t), tags))
 
 query, version = parse_args()
 soup = get_soup(query, version)
