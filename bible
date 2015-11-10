@@ -2,6 +2,7 @@
 
 import sys
 from bs4 import BeautifulSoup
+import argparse
 import requests
 
 def versions():
@@ -12,22 +13,21 @@ def usage():
     sys.exit()
 
 def parse_args():
-    query = sys.argv
-    del query[0]
-    if len(query) == 0:
-        usage()
-    version = 'NIV'
-    if query[-1].upper() in versions():
-        version = query[-1].upper()
-        del query[-1]
-    return ' '.join(query), version
+    parser = argparse.ArgumentParser(description='Fetch Bible references from biblegateway.com')
+    parser.add_argument('reference', nargs='+', help='bible reference')
+    parser.add_argument('--version', nargs='?', help='translation (e.g. NIV, NLT')
+    parser.add_argument('--hideversenumbers', action='store_true', default=False)
+    args = parser.parse_args()
+    return ' '.join(args.reference), args.version, args.hideversenumbers
 
 def get_soup(query, version):
     r = requests.get('https://www.biblegateway.com/passage/?search=' + query + '&version=' + version)
     return BeautifulSoup(r.text,  "html.parser")
 
 def clean(tag):
-    for t in tag.find_all('sup', class_=lambda x: x != 'versenum'):
+    for t in tag.find_all('sup'):
+        if not hide_verse_numbers and t['class'] == 'versenum':
+            continue
         t.decompose()
 
 def render(tag):
@@ -44,6 +44,6 @@ def get_passage(soup):
     tags = soup.find(class_="result-text-style-normal").select('p, div.poetry p')
     return "\n\n".join(map(lambda t : render(t), tags))
 
-query, version = parse_args()
+query, version, hide_verse_numbers = parse_args()
 soup = get_soup(query, version)
 print(get_passage(soup))
