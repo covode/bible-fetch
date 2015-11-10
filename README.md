@@ -15,7 +15,7 @@ pip3 install beautifulsoup4 Requests
 ```bash
 ./bible psalm 23
 ./bible jn 3.16 --version NLT
-./bible luke 5.1-11 --hideversenumbers
+./bible luke 5.1-11 --verse-numbers
 ```
 
 ## License
