@@ -15,7 +15,7 @@ def usage():
 def parse_args():
     parser = argparse.ArgumentParser(description='Fetch Bible references from biblegateway.com')
     parser.add_argument('reference', nargs='+', help='bible reference')
-    parser.add_argument('--version', nargs='?', help='translation (e.g. NIV, NLT')
+    parser.add_argument('--version', nargs='?', help='translation (e.g. NIV, NLT)', default='NIV')
     parser.add_argument('--hideversenumbers', action='store_true', default=False)
     args = parser.parse_args()
     return ' '.join(args.reference), args.version, args.hideversenumbers
