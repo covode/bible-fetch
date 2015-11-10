@@ -22,7 +22,7 @@ def get_soup(query, version):
 
 def clean(tag):
     for t in tag.find_all('sup'):
-        if not hide_verse_numbers and t['class'] == 'versenum':
+        if not hide_verse_numbers and t['class'] != 'versenum':
             continue
         t.decompose()
 
