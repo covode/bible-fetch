@@ -13,8 +13,9 @@ pip3 install beautifulsoup4 Requests
 ## Running
 
 ```bash
-./bible jn 3.16 nlt
 ./bible psalm 23
+./bible jn 3.16 --version NLT
+./bible luke 5.1-11 --hideversenumbers
 ```
 
 ## License
