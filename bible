@@ -8,10 +8,6 @@ import requests
 def versions():
     return {'NIV', 'NLT'}
 
-def usage():
-    print('./bible [passage] [version]')
-    sys.exit()
-
 def parse_args():
     parser = argparse.ArgumentParser(description='Fetch Bible references from biblegateway.com')
     parser.add_argument('reference', nargs='+', help='bible reference')
