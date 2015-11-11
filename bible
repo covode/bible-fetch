@@ -40,9 +40,13 @@ def render(tag):
     return text.strip()
 
 def get_passage(soup):
-    tags = soup.find(class_="result-text-style-normal").select('p, div.poetry p')
-    return "\n\n".join(map(lambda t : render(t), tags))
+    root = soup.find(class_="result-text-style-normal")
+    if root is None:
+        return
+    return "\n\n".join(map(lambda t : render(t), root.select('p, div.poetry p')))
 
 query, version, show_verse_numbers = parse_args()
-soup = get_soup(query, version)
-print(get_passage(soup))
+soup    = get_soup(query, version)
+passage = get_passage(soup)
+if passage is not None:
+    print(passage)
