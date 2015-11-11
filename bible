@@ -5,9 +5,6 @@ from bs4 import BeautifulSoup
 import argparse
 import requests
 
-def versions():
-    return {'NIV', 'NLT'}
-
 def parse_args():
     parser = argparse.ArgumentParser(description='Fetch Bible references from biblegateway.com')
     parser.add_argument('reference', nargs='+', help='bible reference')
