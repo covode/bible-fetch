@@ -6,12 +6,13 @@ import argparse
 import requests
 
 def parse_args():
+    default_version = 'NIV'
     parser = argparse.ArgumentParser(description='Fetch Bible references from biblegateway.com')
     parser.add_argument('reference', nargs='+', help='bible reference')
-    parser.add_argument('--version', nargs='?', help='translation (e.g. NIV, NLT)', default='NIV')
+    parser.add_argument('--version', nargs='?', help='translation (e.g. NIV, NLT)', default=default_version)
     parser.add_argument('--verse-numbers', action='store_true', default=False)
     args = parser.parse_args()
-    return ' '.join(args.reference), args.version, args.verse_numbers
+    return ' '.join(args.reference), args.version or default_version, args.verse_numbers
 
 def get_soup(query, version):
     r = requests.get('https://www.biblegateway.com/passage/?search=' + query + '&version=' + version)
