@@ -22,9 +22,12 @@ def get_soup(query, version):
 
 def clean(tag):
     for t in tag.find_all('sup'):
-        if show_verse_numbers and t['class'] != 'versenum':
+        if show_verse_numbers and 'versenum' in t['class']:
             continue
         t.decompose()
+    if not show_verse_numbers:
+        for t in tag.find_all(class_='chapternum'):
+            t.decompose()
 
 def render(tag):
     clean(tag)
