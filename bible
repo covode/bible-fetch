@@ -4,6 +4,7 @@ import sys
 from bs4 import BeautifulSoup
 import argparse
 import requests
+from unidecode import unidecode
 
 def parse_args():
     default_version = 'NIV'
@@ -11,8 +12,9 @@ def parse_args():
     parser.add_argument('reference', nargs='+', help='bible reference')
     parser.add_argument('--version', nargs='?', help='translation (e.g. NIV, NLT)', default=default_version)
     parser.add_argument('--verse-numbers', action='store_true', default=False)
+    parser.add_argument('--ascii', action='store_true', default=False, help='translate Unicode to ASCII (useful on Windows)')
     args = parser.parse_args()
-    return ' '.join(args.reference), args.version or default_version, args.verse_numbers
+    return ' '.join(args.reference), args.version or default_version, args.verse_numbers, args.ascii
 
 def get_soup(query, version):
     r = requests.get('https://www.biblegateway.com/passage/?search=' + query + '&version=' + version)
@@ -35,7 +37,7 @@ def render(tag):
             text += t
         elif t.name == 'br':
             text += '\n'
-    return text.strip()
+    return text
 
 def get_passage(soup):
     root = soup.find(class_="result-text-style-normal")
@@ -43,8 +45,10 @@ def get_passage(soup):
         return
     return "\n\n".join(map(lambda t : render(t), root.select('p, div.poetry p')))
 
-query, version, show_verse_numbers = parse_args()
+query, version, show_verse_numbers, use_ascii = parse_args()
 soup    = get_soup(query, version)
-passage = get_passage(soup)
+passage = get_passage(soup).strip()
+if use_ascii:
+    passage = unidecode(passage)
 if passage is not None:
     print(passage)
