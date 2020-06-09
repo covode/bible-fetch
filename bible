@@ -14,7 +14,8 @@ def parse_args():
     parser.add_argument('reference', nargs='+', help='bible reference')
     parser.add_argument('--version', nargs='?',
                         help='translation (e.g. NIV, NLT)', default=default_version)
-    parser.add_argument('--verse-numbers', action='store_true', default=False)
+    parser.add_argument('--verse-numbers', action='store_true',
+                        default=False, help='print verse numbers (hidden by default)')
     parser.add_argument('--ascii', action='store_true', default=False,
                         help='translate Unicode to ASCII (useful on Windows)')
     if len(sys.argv) == 1:
