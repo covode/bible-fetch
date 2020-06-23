@@ -60,6 +60,8 @@ def clean(tag):
     if not show_verse_numbers:
         for t in tag.find_all(class_="chapternum"):
             t.decompose()
+    for t in tag.find_all(class_="surface"):
+        t.decompose()
 
 
 def render(tag):
