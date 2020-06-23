@@ -20,6 +20,14 @@ pip3 install beautifulsoup4 Requests Unidecode
 ./bible "Phil 1:1-10; 2:3; Rom 3:28" --version NRSV --verse-numbers
 ```
 
+### One-liners
+
+Generate a word frequency chart:
+
+```bash
+bible 1 Corinthians 2:6-16 --version MOUNCE | tr -s "[:space:]" | tr " " "\n" | tr -d '“‘,.”’—:?!;() ' | tr '[:upper:]' '[:lower:]' | sort | uniq -ic | sort
+```
+
 ## License
 
 MIT style license (see LICENSE).
