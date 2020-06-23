@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import argparse
 import requests
 from unidecode import unidecode
+import urllib.parse
 
 
 def parse_args():
@@ -12,7 +13,7 @@ def parse_args():
     parser = argparse.ArgumentParser(
         description="Fetch Bible references from biblegateway.com"
     )
-    parser.add_argument("reference", nargs="+", help="bible reference")
+    parser.add_argument("reference", nargs="*", help="bible reference")
     parser.add_argument(
         "--version",
         nargs="?",
@@ -44,6 +45,7 @@ def parse_args():
 
 
 def get_soup(query, version):
+    query = urllib.parse.quote_plus(query)
     r = requests.get(
         "https://www.biblegateway.com/passage/?search=" + query + "&version=" + version
     )
@@ -71,6 +73,16 @@ def render(tag):
     return text
 
 
+def get_passages(soup):
+    passages = soup.find_all(class_="passage-table")
+    if passages is None:
+        return
+    text = ""
+    for p in passages:
+        text += get_passage(p) + "\n\n"
+    return text
+
+
 def get_passage(soup):
     root = soup.find(class_="result-text-style-normal")
     if root is None:
@@ -80,7 +92,7 @@ def get_passage(soup):
 
 query, version, show_verse_numbers, use_ascii = parse_args()
 soup = get_soup(query, version)
-passage = get_passage(soup).strip()
+passage = get_passages(soup).strip()
 if use_ascii:
     passage = unidecode(passage)
 if passage is not None:
