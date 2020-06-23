@@ -17,6 +17,7 @@ pip3 install beautifulsoup4 Requests Unidecode
 ./bible jn 3.16 --version NLT
 ./bible luke 5.1-11 --verse-numbers
 ./bible John 12:23-26 --ascii
+./bible "Phil 1:1-10; 2:3; Rom 3:28" --version NRSV --verse-numbers
 ```
 
 ## License
