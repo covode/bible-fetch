@@ -82,7 +82,21 @@ def get_passages(soup):
     text = ""
     for p in passages:
         text += get_passage(p) + "\n\n"
-    return text
+    
+    chars = list(text)
+    index = 0
+    output = ""
+    for char in chars:
+        if index == 0:
+            index += 1
+            continue
+        if chars[index] == ' ' and chars[index - 1] == ' ':
+            del chars[index]
+        index += 1
+    for char in chars:
+        output += char
+    # print(text) # Old output
+    return output
 
 
 def get_passage(soup):
