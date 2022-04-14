@@ -55,6 +55,8 @@ def get_soup(query, version):
 def clean(tag):
     for t in tag.find_all("sup"):
         if show_verse_numbers and "versenum" in t["class"]:
+            superscript = str.maketrans("0123456789", "⁰¹²³⁴⁵⁶⁷⁸⁹") 
+            t.string = t.string.translate(superscript)
             continue
         t.decompose()
     if not show_verse_numbers:
