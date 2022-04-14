@@ -82,7 +82,7 @@ def get_passages(soup):
     text = ""
     for p in passages:
         text += get_passage(p) + "\n\n"
-    return text
+    return text.replace('  ', ' ')
 
 
 def get_passage(soup):
