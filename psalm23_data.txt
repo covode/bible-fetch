@@ -1,0 +1,800 @@
+<div class="passage-table" data-osis="Ps.23.1-Ps.23.6">
+<div class="passage-cols">
+<div class="prev-next">
+<a class="prev-chapter" href="/passage/?search=Psalm%2022&amp;version=NIV" title="Psalm 22"><svg height="21.5" viewbox="0 0 11.5 21.5" width="11.5" xmlns="http://www.w3.org/2000/svg"><title>Previous</title><path d="M10.75 0a.74.74 0 0 1 .53.22.75.75 0 0 1 0 1.06l-9.47 9.47 9.47 9.47a.75.75 0 1 1-1.06 1.06l-10-10a.75.75 0 0 1 0-1.06l10-10a.73.73 0 0 1 .53-.22z"></path></svg>
+</a>
+<a class="next-chapter" href="/passage/?search=Psalm%2024&amp;version=NIV" title="Psalm 24"><svg height="21.5" viewbox="0 0 11.5 21.5" width="11.5" xmlns="http://www.w3.org/2000/svg"><title>Next</title><path d="M.75 21.5a.74.74 0 0 1-.53-.22.75.75 0 0 1 0-1.06l9.47-9.47L.22 1.28A.75.75 0 0 1 1.28.22l10 10a.75.75 0 0 1 0 1.06l-10 10a.74.74 0 0 1-.53.22z"></path></svg>
+</a>
+</div>
+<div class="passage-col-tools"><div class="passage-tools"><a class="parallel" href="/passage/?search=psalm%2023&amp;version=NIV;KJV"><svg height="21" viewbox="0 0 20 21" width="20" xmlns="http://www.w3.org/2000/svg"><title>Add parallel</title><use xlink:href="#icon-compare"></use></svg>
+</a><span class="share"><svg height="19.76" viewbox="0 0 15.72 19.76" width="15.72" xmlns="http://www.w3.org/2000/svg"><title>Share</title><use xlink:href="#icon-external"></use></svg>
+</span> <a class="print" href="/passage/?search=psalm+23&amp;version=NIV&amp;interface=print"><svg height="18.91" viewbox="0 0 18.52 18.91" width="18.52" xmlns="http://www.w3.org/2000/svg"><title>Print</title><use xlink:href="#icon-print"></use></svg>
+</a> <span class="settings"><svg height="19.53" viewbox="0 0 18.95 19.53" width="18.95" xmlns="http://www.w3.org/2000/svg"><title>Page Options</title><use xlink:href="#icon-settings"></use></svg>
+</span><a class="audio-link" href="/audio/mclean/niv/Ps.23" title="Listen to Psalm 23"><svg height="16.73" viewbox="0 0 22.89 16.73" width="22.89" xmlns="http://www.w3.org/2000/svg"><title>Listen to Psalm 23</title><path d="M16.49 3.53a.75.75 0 0 0-.74 1.31 4 4 0 0 1 2 3.52 4 4 0 0 1-2 3.53.74.74 0 0 0-.28 1 .73.73 0 0 0 .65.39.82.82 0 0 0 .37-.1 5.49 5.49 0 0 0 2.79-4.84 5.47 5.47 0 0 0-2.79-4.81z"></path><path d="M20.09 1.78A.75.75 0 0 0 19.17 3a6.76 6.76 0 0 1 2.22 5.4 6.75 6.75 0 0 1-2.22 5.39.74.74 0 0 0-.17 1.02.72.72 0 0 0 .59.29.79.79 0 0 0 .46-.15 8.27 8.27 0 0 0 2.8-6.58 8.28 8.28 0 0 0-2.76-6.59zM12.53.09l-7 3.75H2.07A2 2 0 0 0 0 5.82v5.08a2 2 0 0 0 2.07 2h3.41l7 3.75a.77.77 0 0 0 .36.09.73.73 0 0 0 .38-.11.74.74 0 0 0 .37-.64V.75a.74.74 0 0 0-.37-.64.73.73 0 0 0-.69-.02zM1.5 10.9V5.82a.54.54 0 0 1 .57-.46h3v6h-3a.53.53 0 0 1-.57-.46zm10.64 3.83l-5.52-3V4.94L12.14 2z"></path><path d="M7.85 6.51a.62.62 0 0 0 .55.33.59.59 0 0 0 .29-.07l2.09-1.11a.63.63 0 0 0-.59-1.11L8.1 5.67a.62.62 0 0 0-.25.84z"></path></svg>
+</a></div><div class="passage-col version-NIV" data-translation="NIV"><h1 class="passage-display">
+<div class="bcv"><div class="dropdown-display"><div class="dropdown-display-text">Psalm 23</div></div></div>
+<div class="translation"><div class="dropdown-display"><div class="dropdown-display-text">New International Version</div></div></div><div class="clearfix"></div>
+</h1>
+<div class="dropdowns"><select class="dropdown"><option class="lang" value="AMU">—Amuzgo de Guerrero (AMU)—</option>
+<option value="AMU">Amuzgo de Guerrero (AMU)</option>
+<option class="spacer" value="AMU"> </option>
+<option class="lang" value="ERV-AR">—العربية (AR)—</option>
+<option value="ERV-AR">Arabic Bible: Easy-to-Read Version (ERV-AR)</option>
+<option value="NAV">Ketab El Hayat (NAV)</option>
+<option class="spacer" value="NAV"> </option>
+<option class="lang" value="ERV-AWA">—अवधी (AWA)—</option>
+<option value="ERV-AWA">Awadhi Bible: Easy-to-Read Version (ERV-AWA)</option>
+<option class="spacer" value="ERV-AWA"> </option>
+<option class="lang" value="BG1940">—Български (BG)—</option>
+<option value="BG1940">1940 Bulgarian Bible (BG1940)</option>
+<option value="BULG">Bulgarian Bible (BULG)</option>
+<option value="ERV-BG">Bulgarian New Testament: Easy-to-Read Version (ERV-BG)</option>
+<option value="CBT">Библия, нов превод от оригиналните езици (с неканоничните книги) (CBT)</option>
+<option value="BOB">Библия, синодално издание (BOB)</option>
+<option value="BPB">Библия, ревизирано издание (BPB)</option>
+<option class="spacer" value="BPB"> </option>
+<option class="lang" value="CCO">—Chinanteco de Comaltepec (CCO)—</option>
+<option value="CCO">Chinanteco de Comaltepec (CCO)</option>
+<option class="spacer" value="CCO"> </option>
+<option class="lang" value="APSD-CEB">—Cebuano (CEB)—</option>
+<option value="APSD-CEB">Ang Pulong Sa Dios (APSD-CEB)</option>
+<option class="spacer" value="APSD-CEB"> </option>
+<option class="lang" value="CHR">—ᏣᎳᎩ ᎦᏬᏂᎯᏍ (CHR)—</option>
+<option value="CHR">Cherokee New Testament (CHR)</option>
+<option class="spacer" value="CHR"> </option>
+<option class="lang" value="KSS">—كوردی سۆرانی (CKB)—</option>
+<option value="KSS">Kurdi Sorani Standard (KSS)</option>
+<option class="spacer" value="KSS"> </option>
+<option class="lang" value="CKW">—Cakchiquel Occidental (CKW)—</option>
+<option value="CKW">Cakchiquel Occidental (CKW)</option>
+<option class="spacer" value="CKW"> </option>
+<option class="lang" value="B21">—Čeština (CS)—</option>
+<option value="B21">Bible 21 (B21)</option>
+<option value="SNC">Slovo na cestu (SNC)</option>
+<option class="spacer" value="SNC"> </option>
+<option class="lang" value="BWM">—Cymraeg (CY)—</option>
+<option value="BWM">Beibl William Morgan (BWM)</option>
+<option class="spacer" value="BWM"> </option>
+<option class="lang" value="BPH">—Dansk (DA)—</option>
+<option value="BPH">Bibelen på hverdagsdansk (BPH)</option>
+<option value="DN1933">Dette er Biblen på dansk (DN1933)</option>
+<option class="spacer" value="DN1933"> </option>
+<option class="lang" value="HOF">—Deutsch (DE)—</option>
+<option value="HOF">Hoffnung für Alle (HOF)</option>
+<option value="LUTH1545">Luther Bibel 1545 (LUTH1545)</option>
+<option value="NGU-DE">Neue Genfer Übersetzung (NGU-DE)</option>
+<option value="SCH1951">Schlachter 1951 (SCH1951)</option>
+<option value="SCH2000">Schlachter 2000 (SCH2000)</option>
+<option class="spacer" value="SCH2000"> </option>
+<option class="lang" value="KJ21">—English (EN)—</option>
+<option value="KJ21">21st Century King James Version (KJ21)</option>
+<option value="ASV">American Standard Version (ASV)</option>
+<option value="AMP">Amplified Bible (AMP)</option>
+<option value="AMPC">Amplified Bible, Classic Edition (AMPC)</option>
+<option value="BRG">BRG Bible (BRG)</option>
+<option value="CSB">Christian Standard Bible (CSB)</option>
+<option value="CEB">Common English Bible (CEB)</option>
+<option value="CJB">Complete Jewish Bible (CJB)</option>
+<option value="CEV">Contemporary English Version (CEV)</option>
+<option value="DARBY">Darby Translation (DARBY)</option>
+<option value="DLNT">Disciples’ Literal New Testament (DLNT)</option>
+<option value="DRA">Douay-Rheims 1899 American Edition (DRA)</option>
+<option value="ERV">Easy-to-Read Version (ERV)</option>
+<option value="EHV">Evangelical Heritage Version (EHV)</option>
+<option value="ESV">English Standard Version (ESV)</option>
+<option value="ESVUK">English Standard Version Anglicised (ESVUK)</option>
+<option value="EXB">Expanded Bible (EXB)</option>
+<option value="GNV">1599 Geneva Bible (GNV)</option>
+<option value="GW">GOD’S WORD Translation (GW)</option>
+<option value="GNT">Good News Translation (GNT)</option>
+<option value="HCSB">Holman Christian Standard Bible (HCSB)</option>
+<option value="ICB">International Children’s Bible (ICB)</option>
+<option value="ISV">International Standard Version (ISV)</option>
+<option value="PHILLIPS">J.B. Phillips New Testament (PHILLIPS)</option>
+<option value="JUB">Jubilee Bible 2000 (JUB)</option>
+<option value="KJV">King James Version (KJV)</option>
+<option value="AKJV">Authorized (King James) Version (AKJV)</option>
+<option value="LEB">Lexham English Bible (LEB)</option>
+<option value="TLB">Living Bible (TLB)</option>
+<option value="MSG">The Message (MSG)</option>
+<option value="MEV">Modern English Version (MEV)</option>
+<option value="MOUNCE">Mounce Reverse Interlinear New Testament (MOUNCE)</option>
+<option value="NOG">Names of God Bible (NOG)</option>
+<option value="NABRE">New American Bible (Revised Edition) (NABRE)</option>
+<option value="NASB">New American Standard Bible (NASB)</option>
+<option value="NASB1995">New American Standard Bible 1995 (NASB1995)</option>
+<option value="NCB">New Catholic Bible (NCB)</option>
+<option value="NCV">New Century Version (NCV)</option>
+<option value="NET">New English Translation (NET Bible)</option>
+<option value="NIRV">New International Reader's Version (NIRV)</option>
+<option selected="selected" value="NIV">New International Version (NIV)</option>
+<option value="NIVUK">New International Version - UK (NIVUK)</option>
+<option value="NKJV">New King James Version (NKJV)</option>
+<option value="NLV">New Life Version (NLV)</option>
+<option value="NLT">New Living Translation (NLT)</option>
+<option value="NMB">New Matthew Bible (NMB)</option>
+<option value="NRSV">New Revised Standard Version (NRSV)</option>
+<option value="NRSVA">New Revised Standard Version, Anglicised (NRSVA)</option>
+<option value="NRSVACE">New Revised Standard Version, Anglicised Catholic Edition (NRSVACE)</option>
+<option value="NRSVCE">New Revised Standard Version Catholic Edition (NRSVCE)</option>
+<option value="NTE">New Testament for Everyone (NTE)</option>
+<option value="OJB">Orthodox Jewish Bible (OJB)</option>
+<option value="RGT">Revised Geneva Translation (RGT)</option>
+<option value="RSV">Revised Standard Version (RSV)</option>
+<option value="RSVCE">Revised Standard Version Catholic Edition (RSVCE)</option>
+<option value="TLV">Tree of Life Version (TLV)</option>
+<option value="VOICE">The Voice (VOICE)</option>
+<option value="WEB">World English Bible (WEB)</option>
+<option value="WE">Worldwide English (New Testament) (WE)</option>
+<option value="WYC">Wycliffe Bible (WYC)</option>
+<option value="YLT">Young's Literal Translation (YLT)</option>
+<option class="spacer" value="YLT"> </option>
+<option class="lang" value="LBLA">—Español (ES)—</option>
+<option value="LBLA">La Biblia de las Américas (LBLA)</option>
+<option value="JBS">Biblia del Jubileo (JBS)</option>
+<option value="DHH">Dios Habla Hoy (DHH)</option>
+<option value="NBLA">Nueva Biblia de las Américas (NBLA)</option>
+<option value="NBV">Nueva Biblia Viva (NBV)</option>
+<option value="NTV">Nueva Traducción Viviente (NTV)</option>
+<option value="NVI">Nueva Versión Internacional (NVI)</option>
+<option value="CST">Nueva Versión Internacional (Castilian) (CST)</option>
+<option value="PDT">Palabra de Dios para Todos (PDT)</option>
+<option value="BLP">La Palabra (España) (BLP)</option>
+<option value="BLPH">La Palabra (Hispanoamérica) (BLPH)</option>
+<option value="RVA-2015">Reina Valera Actualizada (RVA-2015)</option>
+<option value="RVC">Reina Valera Contemporánea (RVC)</option>
+<option value="RVR1960">Reina-Valera 1960 (RVR1960)</option>
+<option value="RVR1977">Reina Valera Revisada (RVR1977)</option>
+<option value="RVR1995">Reina-Valera 1995 (RVR1995)</option>
+<option value="RVA">Reina-Valera Antigua (RVA)</option>
+<option value="SRV-BRG">Spanish Blue Red and Gold Letter Edition (SRV-BRG)</option>
+<option value="TLA">Traducción en lenguaje actual (TLA)</option>
+<option class="spacer" value="TLA"> </option>
+<option class="lang" value="R1933">—Suomi (FI)—</option>
+<option value="R1933">Raamattu 1933/38 (R1933)</option>
+<option class="spacer" value="R1933"> </option>
+<option class="lang" value="BDS">—Français (FR)—</option>
+<option value="BDS">La Bible du Semeur (BDS)</option>
+<option value="LSG">Louis Segond (LSG)</option>
+<option value="NEG1979">Nouvelle Edition de Genève – NEG1979 (NEG1979)</option>
+<option value="SG21">Segond 21 (SG21)</option>
+<option class="spacer" value="SG21"> </option>
+<option class="lang" value="TR1550">—Κοινη (GRC)—</option>
+<option value="TR1550">1550 Stephanus New Testament (TR1550)</option>
+<option value="WHNU">1881 Westcott-Hort New Testament (WHNU)</option>
+<option value="TR1894">1894 Scrivener New Testament (TR1894)</option>
+<option value="SBLGNT">SBL Greek New Testament (SBLGNT)</option>
+<option value="THGNT">Tyndale House Greek New Testament (THGNT)</option>
+<option class="spacer" value="THGNT"> </option>
+<option class="lang" value="GERV">—ગુજરાતી (GU)—</option>
+<option value="GERV">Gujarati: પવિત્ર બાઈબલ (GERV)</option>
+<option class="spacer" value="GERV"> </option>
+<option class="lang" value="HHH">—עברית (HE)—</option>
+<option value="HHH">Habrit Hakhadasha/Haderekh (HHH)</option>
+<option value="WLC">The Westminster Leningrad Codex (WLC)</option>
+<option class="spacer" value="WLC"> </option>
+<option class="lang" value="ERV-HI">—हिन्दी (HI)—</option>
+<option value="ERV-HI">Hindi Bible: Easy-to-Read Version (ERV-HI)</option>
+<option value="SHB">Saral Hindi Bible (SHB)</option>
+<option class="spacer" value="SHB"> </option>
+<option class="lang" value="HLGN">—Ilonggo (HIL)—</option>
+<option value="HLGN">Ang Pulong Sang Dios (HLGN)</option>
+<option class="spacer" value="HLGN"> </option>
+<option class="lang" value="NCA">—Chhattisgarhi (HNE)—</option>
+<option value="NCA">New Chhattisgarhi Translation (नवां नियम छत्तीसगढ़ी) (NCA)</option>
+<option class="spacer" value="NCA"> </option>
+<option class="lang" value="SHP">—Hrvatski (HR)—</option>
+<option value="SHP">Biblija: suvremeni hrvatski prijevod (SHP)</option>
+<option value="HNZ-RI">Hrvatski Novi Zavjet – Rijeka 2001 (HNZ-RI)</option>
+<option value="CRO">Knijga O Kristu (CRO)</option>
+<option class="spacer" value="CRO"> </option>
+<option class="lang" value="HCV">—Kreyòl ayisyen (HT)—</option>
+<option value="HCV">Haitian Creole Version (HCV)</option>
+<option value="VKF">Nouvo Testaman: Vèsyon Kreyòl Fasil (VKF)</option>
+<option class="spacer" value="VKF"> </option>
+<option class="lang" value="KAR">—Magyar (HU)—</option>
+<option value="KAR">Hungarian Károli (KAR)</option>
+<option value="ERV-HU">Hungarian Bible: Easy-to-Read Version (ERV-HU)</option>
+<option value="NT-HU">Hungarian New Translation (NT-HU)</option>
+<option class="spacer" value="NT-HU"> </option>
+<option class="lang" value="HWP">—Hawai‘i Pidgin (HWC)—</option>
+<option value="HWP">Hawai‘i Pidgin (HWP)</option>
+<option class="spacer" value="HWP"> </option>
+<option class="lang" value="ICELAND">—Íslenska (IS)—</option>
+<option value="ICELAND">Icelandic Bible (ICELAND)</option>
+<option class="spacer" value="ICELAND"> </option>
+<option class="lang" value="BDG">—Italiano (IT)—</option>
+<option value="BDG">La Bibbia della Gioia (BDG)</option>
+<option value="CEI">Conferenza Episcopale Italiana (CEI)</option>
+<option value="LND">La Nuova Diodati (LND)</option>
+<option value="NR1994">Nuova Riveduta 1994 (NR1994)</option>
+<option value="NR2006">Nuova Riveduta 2006 (NR2006)</option>
+<option class="spacer" value="NR2006"> </option>
+<option class="lang" value="JLB">—日本語 (JA)—</option>
+<option value="JLB">Japanese Living Bible (JLB)</option>
+<option class="spacer" value="JLB"> </option>
+<option class="lang" value="JAC">—Jacalteco, Oriental (JAC)—</option>
+<option value="JAC">Jacalteco, Oriental (JAC)</option>
+<option class="spacer" value="JAC"> </option>
+<option class="lang" value="KEK">—Kekchi (KEK)—</option>
+<option value="KEK">Kekchi (KEK)</option>
+<option class="spacer" value="KEK"> </option>
+<option class="lang" value="KLB">—한국어 (KO)—</option>
+<option value="KLB">Korean Living Bible (KLB)</option>
+<option class="spacer" value="KLB"> </option>
+<option class="lang" value="VULGATE">—Latina (LA)—</option>
+<option value="VULGATE">Biblia Sacra Vulgata (VULGATE)</option>
+<option class="spacer" value="VULGATE"> </option>
+<option class="lang" value="LCB">—Luganda (LG)—</option>
+<option value="LCB">Endagaano Enkadde nʼEndagaano Empya (LCB)</option>
+<option class="spacer" value="LCB"> </option>
+<option class="lang" value="MAORI">—Māori (MI)—</option>
+<option value="MAORI">Maori Bible (MAORI)</option>
+<option class="spacer" value="MAORI"> </option>
+<option class="lang" value="MNT">—Македонски (MK)—</option>
+<option value="MNT">Macedonian New Testament (MNT)</option>
+<option class="spacer" value="MNT"> </option>
+<option class="lang" value="ERV-MR">—मराठी (MR)—</option>
+<option value="ERV-MR">Marathi Bible: Easy-to-Read Version (ERV-MR)</option>
+<option class="spacer" value="ERV-MR"> </option>
+<option class="lang" value="MVC">—Mam, Central (MVC)—</option>
+<option value="MVC">Mam, Central (MVC)</option>
+<option class="spacer" value="MVC"> </option>
+<option class="lang" value="MVJ">—Mam, Todos Santos (MVJ)—</option>
+<option value="MVJ">Mam de Todos Santos Chuchumatán (MVJ)</option>
+<option class="spacer" value="MVJ"> </option>
+<option class="lang" value="REIMER">—Plautdietsch (NDS)—</option>
+<option value="REIMER">Reimer 2001 (REIMER)</option>
+<option class="spacer" value="REIMER"> </option>
+<option class="lang" value="ERV-NE">—नेपाली (NE)—</option>
+<option value="ERV-NE">Nepali Bible: Easy-to-Read Version (ERV-NE)</option>
+<option class="spacer" value="ERV-NE"> </option>
+<option class="lang" value="NGU">—Náhuatl de Guerrero (NGU)—</option>
+<option value="NGU">Náhuatl de Guerrero (NGU)</option>
+<option class="spacer" value="NGU"> </option>
+<option class="lang" value="BB">—Nederlands (NL)—</option>
+<option value="BB">BasisBijbel (BB)</option>
+<option value="HTB">Het Boek (HTB)</option>
+<option class="spacer" value="HTB"> </option>
+<option class="lang" value="DNB1930">—Norsk (NO)—</option>
+<option value="DNB1930">Det Norsk Bibelselskap 1930 (DNB1930)</option>
+<option value="LB">En Levende Bok (LB)</option>
+<option class="spacer" value="LB"> </option>
+<option class="lang" value="CCL">—Chichewa (NY)—</option>
+<option value="CCL">Mawu a Mulungu mu Chichewa Chalero (CCL)</option>
+<option class="spacer" value="CCL"> </option>
+<option class="lang" value="ERV-OR">—ଓଡ଼ିଆ (OR)—</option>
+<option value="ERV-OR">Oriya Bible: Easy-to-Read Version (ERV-OR)</option>
+<option class="spacer" value="ERV-OR"> </option>
+<option class="lang" value="ERV-PA">—ਪੰਜਾਬੀ (PA)—</option>
+<option value="ERV-PA">Punjabi Bible: Easy-to-Read Version (ERV-PA)</option>
+<option class="spacer" value="ERV-PA"> </option>
+<option class="lang" value="NP">—Polski (PL)—</option>
+<option value="NP">Nowe Przymierze (NP)</option>
+<option value="SZ-PL">Słowo Życia (SZ-PL)</option>
+<option value="UBG">Updated Gdańsk Bible (UBG)</option>
+<option class="spacer" value="UBG"> </option>
+<option class="lang" value="NBTN">—Nawat (PPL)—</option>
+<option value="NBTN">Ne Bibliaj Tik Nawat (NBTN)</option>
+<option class="spacer" value="NBTN"> </option>
+<option class="lang" value="ARC">—Português (PT)—</option>
+<option value="ARC">Almeida Revista e Corrigida 2009 (ARC)</option>
+<option value="VFL">Portuguese New Testament: Easy-to-Read Version (VFL)</option>
+<option value="NTLH">Nova Traduҫão na Linguagem de Hoje 2000 (NTLH)</option>
+<option value="NVT">Nova Versão Transformadora (NVT)</option>
+<option value="NVI-PT">Nova Versão Internacional (NVI-PT)</option>
+<option value="OL">O Livro (OL)</option>
+<option class="spacer" value="OL"> </option>
+<option class="lang" value="MTDS">—Quichua (QU)—</option>
+<option value="MTDS">Mushuj Testamento Diospaj Shimi (MTDS)</option>
+<option class="spacer" value="MTDS"> </option>
+<option class="lang" value="QUT">—Quiché, Centro Occidenta (QUT)—</option>
+<option value="QUT">Quiché, Centro Occidental (QUT)</option>
+<option class="spacer" value="QUT"> </option>
+<option class="lang" value="RMNN">—Română (RO)—</option>
+<option value="RMNN">Cornilescu 1924 - Revised 2010, 2014 (RMNN)</option>
+<option value="NTLR">Nouă Traducere În Limba Română (NTLR)</option>
+<option class="spacer" value="NTLR"> </option>
+<option class="lang" value="NRT">—Русский (RU)—</option>
+<option value="NRT">New Russian Translation (NRT)</option>
+<option value="CARS">Священное Писание (Восточный Перевод) (CARS)</option>
+<option value="CARST">Священное Писание (Восточный перевод), версия для Таджикистана (CARST)</option>
+<option value="CARSA">Священное Писание (Восточный перевод), версия с «Аллахом» (CARSA)</option>
+<option value="ERV-RU">Russian New Testament: Easy-to-Read Version (ERV-RU)</option>
+<option value="RUSV">Russian Synodal Version (RUSV)</option>
+<option class="spacer" value="RUSV"> </option>
+<option class="lang" value="NPK">—Slovenčina (SK)—</option>
+<option value="NPK">Nádej pre kazdého (NPK)</option>
+<option class="spacer" value="NPK"> </option>
+<option class="lang" value="SOM">—Somali (SO)—</option>
+<option value="SOM">Somali Bible (SOM)</option>
+<option class="spacer" value="SOM"> </option>
+<option class="lang" value="ALB">—Shqip (SQ)—</option>
+<option value="ALB">Albanian Bible (ALB)</option>
+<option class="spacer" value="ALB"> </option>
+<option class="lang" value="NSP">—Српски (SR)—</option>
+<option value="NSP">New Serbian Translation (NSP)</option>
+<option value="ERV-SR">Serbian New Testament: Easy-to-Read Version (ERV-SR)</option>
+<option class="spacer" value="ERV-SR"> </option>
+<option class="lang" value="NUB">—Svenska (SV)—</option>
+<option value="NUB">nuBibeln (Swedish Contemporary Bible) (NUB)</option>
+<option value="SV1917">Svenska 1917 (SV1917)</option>
+<option value="SFB">Svenska Folkbibeln (SFB)</option>
+<option value="SFB15">Svenska Folkbibeln 2015 (SFB15)</option>
+<option value="SVL">Swedish New Living Bible (Nya Levande Bibeln) (SVL)</option>
+<option class="spacer" value="SVL"> </option>
+<option class="lang" value="TKU">—Kiswahili (SW)—</option>
+<option value="TKU">Agano Jipya: Tafsiri ya Kusoma-Kwa-Urahisi (TKU)</option>
+<option value="SNT">Neno: Bibilia Takatifu (SNT)</option>
+<option class="spacer" value="SNT"> </option>
+<option class="lang" value="ERV-TA">—தமிழ் (TA)—</option>
+<option value="ERV-TA">Tamil Bible: Easy-to-Read Version (ERV-TA)</option>
+<option class="spacer" value="ERV-TA"> </option>
+<option class="lang" value="NTV-BIBLE">—ภาษาไทย (TH)—</option>
+<option value="NTV-BIBLE">New Thai Version (NTV-BIBLE)</option>
+<option value="ERV-TH">Thai New Testament: Easy-to-Read Version (ERV-TH)</option>
+<option value="TNCV">Thai New Contemporary Bible (TNCV)</option>
+<option class="spacer" value="TNCV"> </option>
+<option class="lang" value="FSV">—Tagalog (TL)—</option>
+<option value="FSV">Ang Bagong Tipan: Filipino Standard Version (FSV)</option>
+<option value="ABTAG1978">Ang Biblia (1978) (ABTAG1978)</option>
+<option value="ABTAG2001">Ang Biblia, 2001 (ABTAG2001)</option>
+<option value="ADB1905">Ang Dating Biblia (1905) (ADB1905)</option>
+<option value="SND">Ang Salita ng Diyos (SND)</option>
+<option value="ASND">Ang Salita ng Dios (Tagalog Contemporary Bible) (ASND)</option>
+<option value="MBBTAG">Magandang Balita Biblia (MBBTAG)</option>
+<option value="MBBTAG-DC">Magandang Balita Biblia (with Deuterocanon) (MBBTAG-DC)</option>
+<option class="spacer" value="MBBTAG-DC"> </option>
+<option class="lang" value="NA-TWI">—Twi (TWI)—</option>
+<option value="NA-TWI">Nkwa Asem (NA-TWI)</option>
+<option class="spacer" value="NA-TWI"> </option>
+<option class="lang" value="UKR">—Українська (UK)—</option>
+<option value="UKR">Ukrainian Bible (UKR)</option>
+<option value="ERV-UK">Ukrainian New Testament: Easy-to-Read Version (ERV-UK)</option>
+<option class="spacer" value="ERV-UK"> </option>
+<option class="lang" value="ERV-UR">—اردو (UR)—</option>
+<option value="ERV-UR">Urdu Bible: Easy-to-Read Version (ERV-UR)</option>
+<option class="spacer" value="ERV-UR"> </option>
+<option class="lang" value="USP">—Uspanteco (USP)—</option>
+<option value="USP">Uspanteco (USP)</option>
+<option class="spacer" value="USP"> </option>
+<option class="lang" value="BD2011">—Tiêng Viêt (VI)—</option>
+<option value="BD2011">Bản Dịch 2011 (BD2011)</option>
+<option value="NVB">New Vietnamese Bible (NVB)</option>
+<option value="BPT">Vietnamese Bible: Easy-to-Read Version (BPT)</option>
+<option class="spacer" value="BPT"> </option>
+<option class="lang" value="BYO">—Yorùbá (YO)—</option>
+<option value="BYO">Bíbélì Mímọ́ Yorùbá Òde Òn (BYO)</option>
+<option class="spacer" value="BYO"> </option>
+<option class="lang" value="CCB">—汉语 (ZH)—</option>
+<option value="CCB">Chinese Contemporary Bible (Simplified) (CCB)</option>
+<option value="CCBT">Chinese Contemporary Bible (Traditional) (CCBT)</option>
+<option value="ERV-ZH">Chinese New Testament: Easy-to-Read Version (ERV-ZH)</option>
+<option value="CNVS">Chinese New Version (Simplified) (CNVS)</option>
+<option value="CNVT">Chinese New Version (Traditional) (CNVT)</option>
+<option value="CSBS">Chinese Standard Bible (Simplified) (CSBS)</option>
+<option value="CSBT">Chinese Standard Bible (Traditional) (CSBT)</option>
+<option value="CUVS">Chinese Union Version (Simplified) (CUVS)</option>
+<option value="CUV">Chinese Union Version (Traditional) (CUV)</option>
+<option value="CUVMPS">Chinese Union Version Modern Punctuation (Simplified) (CUVMPS)</option>
+<option value="CUVMPT">Chinese Union Version Modern Punctuation (Traditional) (CUVMPT)</option>
+<option value="RCU17SS">Revised Chinese Union Version (Simplified Script) Shen Edition (RCU17SS)</option>
+<option value="RCU17TS">Revised Chinese Union Version (Traditional Script) Shen Edition (RCU17TS)</option>
+</select><select class="dropdown-small"><option class="lang" value="AMU">—AMU—</option>
+<option value="AMU">AMU</option>
+<option class="spacer" value="AMU"> </option>
+<option class="lang" value="ERV-AR">—AR—</option>
+<option value="ERV-AR">ERV-AR</option>
+<option value="NAV">NAV</option>
+<option class="spacer" value="NAV"> </option>
+<option class="lang" value="ERV-AWA">—AWA—</option>
+<option value="ERV-AWA">ERV-AWA</option>
+<option class="spacer" value="ERV-AWA"> </option>
+<option class="lang" value="BG1940">—BG—</option>
+<option value="BG1940">BG1940</option>
+<option value="BULG">BULG</option>
+<option value="ERV-BG">ERV-BG</option>
+<option value="CBT">CBT</option>
+<option value="BOB">BOB</option>
+<option value="BPB">BPB</option>
+<option class="spacer" value="BPB"> </option>
+<option class="lang" value="CCO">—CCO—</option>
+<option value="CCO">CCO</option>
+<option class="spacer" value="CCO"> </option>
+<option class="lang" value="APSD-CEB">—CEB—</option>
+<option value="APSD-CEB">APSD-CEB</option>
+<option class="spacer" value="APSD-CEB"> </option>
+<option class="lang" value="CHR">—CHR—</option>
+<option value="CHR">CHR</option>
+<option class="spacer" value="CHR"> </option>
+<option class="lang" value="KSS">—CKB—</option>
+<option value="KSS">KSS</option>
+<option class="spacer" value="KSS"> </option>
+<option class="lang" value="CKW">—CKW—</option>
+<option value="CKW">CKW</option>
+<option class="spacer" value="CKW"> </option>
+<option class="lang" value="B21">—CS—</option>
+<option value="B21">B21</option>
+<option value="SNC">SNC</option>
+<option class="spacer" value="SNC"> </option>
+<option class="lang" value="BWM">—CY—</option>
+<option value="BWM">BWM</option>
+<option class="spacer" value="BWM"> </option>
+<option class="lang" value="BPH">—DA—</option>
+<option value="BPH">BPH</option>
+<option value="DN1933">DN1933</option>
+<option class="spacer" value="DN1933"> </option>
+<option class="lang" value="HOF">—DE—</option>
+<option value="HOF">HOF</option>
+<option value="LUTH1545">LUTH1545</option>
+<option value="NGU-DE">NGU-DE</option>
+<option value="SCH1951">SCH1951</option>
+<option value="SCH2000">SCH2000</option>
+<option class="spacer" value="SCH2000"> </option>
+<option class="lang" value="KJ21">—EN—</option>
+<option value="KJ21">KJ21</option>
+<option value="ASV">ASV</option>
+<option value="AMP">AMP</option>
+<option value="AMPC">AMPC</option>
+<option value="BRG">BRG</option>
+<option value="CSB">CSB</option>
+<option value="CEB">CEB</option>
+<option value="CJB">CJB</option>
+<option value="CEV">CEV</option>
+<option value="DARBY">DARBY</option>
+<option value="DLNT">DLNT</option>
+<option value="DRA">DRA</option>
+<option value="ERV">ERV</option>
+<option value="EHV">EHV</option>
+<option value="ESV">ESV</option>
+<option value="ESVUK">ESVUK</option>
+<option value="EXB">EXB</option>
+<option value="GNV">GNV</option>
+<option value="GW">GW</option>
+<option value="GNT">GNT</option>
+<option value="HCSB">HCSB</option>
+<option value="ICB">ICB</option>
+<option value="ISV">ISV</option>
+<option value="PHILLIPS">PHILLIPS</option>
+<option value="JUB">JUB</option>
+<option value="KJV">KJV</option>
+<option value="AKJV">AKJV</option>
+<option value="LEB">LEB</option>
+<option value="TLB">TLB</option>
+<option value="MSG">MSG</option>
+<option value="MEV">MEV</option>
+<option value="MOUNCE">MOUNCE</option>
+<option value="NOG">NOG</option>
+<option value="NABRE">NABRE</option>
+<option value="NASB">NASB</option>
+<option value="NASB1995">NASB1995</option>
+<option value="NCB">NCB</option>
+<option value="NCV">NCV</option>
+<option value="NET">NET</option>
+<option value="NIRV">NIRV</option>
+<option selected="selected" value="NIV">NIV</option>
+<option value="NIVUK">NIVUK</option>
+<option value="NKJV">NKJV</option>
+<option value="NLV">NLV</option>
+<option value="NLT">NLT</option>
+<option value="NMB">NMB</option>
+<option value="NRSV">NRSV</option>
+<option value="NRSVA">NRSVA</option>
+<option value="NRSVACE">NRSVACE</option>
+<option value="NRSVCE">NRSVCE</option>
+<option value="NTE">NTE</option>
+<option value="OJB">OJB</option>
+<option value="RGT">RGT</option>
+<option value="RSV">RSV</option>
+<option value="RSVCE">RSVCE</option>
+<option value="TLV">TLV</option>
+<option value="VOICE">VOICE</option>
+<option value="WEB">WEB</option>
+<option value="WE">WE</option>
+<option value="WYC">WYC</option>
+<option value="YLT">YLT</option>
+<option class="spacer" value="YLT"> </option>
+<option class="lang" value="LBLA">—ES—</option>
+<option value="LBLA">LBLA</option>
+<option value="JBS">JBS</option>
+<option value="DHH">DHH</option>
+<option value="NBLA">NBLA</option>
+<option value="NBV">NBV</option>
+<option value="NTV">NTV</option>
+<option value="NVI">NVI</option>
+<option value="CST">CST</option>
+<option value="PDT">PDT</option>
+<option value="BLP">BLP</option>
+<option value="BLPH">BLPH</option>
+<option value="RVA-2015">RVA-2015</option>
+<option value="RVC">RVC</option>
+<option value="RVR1960">RVR1960</option>
+<option value="RVR1977">RVR1977</option>
+<option value="RVR1995">RVR1995</option>
+<option value="RVA">RVA</option>
+<option value="SRV-BRG">SRV-BRG</option>
+<option value="TLA">TLA</option>
+<option class="spacer" value="TLA"> </option>
+<option class="lang" value="R1933">—FI—</option>
+<option value="R1933">R1933</option>
+<option class="spacer" value="R1933"> </option>
+<option class="lang" value="BDS">—FR—</option>
+<option value="BDS">BDS</option>
+<option value="LSG">LSG</option>
+<option value="NEG1979">NEG1979</option>
+<option value="SG21">SG21</option>
+<option class="spacer" value="SG21"> </option>
+<option class="lang" value="TR1550">—GRC—</option>
+<option value="TR1550">TR1550</option>
+<option value="WHNU">WHNU</option>
+<option value="TR1894">TR1894</option>
+<option value="SBLGNT">SBLGNT</option>
+<option value="THGNT">THGNT</option>
+<option class="spacer" value="THGNT"> </option>
+<option class="lang" value="GERV">—GU—</option>
+<option value="GERV">GERV</option>
+<option class="spacer" value="GERV"> </option>
+<option class="lang" value="HHH">—HE—</option>
+<option value="HHH">HHH</option>
+<option value="WLC">WLC</option>
+<option class="spacer" value="WLC"> </option>
+<option class="lang" value="ERV-HI">—HI—</option>
+<option value="ERV-HI">ERV-HI</option>
+<option value="SHB">SHB</option>
+<option class="spacer" value="SHB"> </option>
+<option class="lang" value="HLGN">—HIL—</option>
+<option value="HLGN">HLGN</option>
+<option class="spacer" value="HLGN"> </option>
+<option class="lang" value="NCA">—HNE—</option>
+<option value="NCA">NCA</option>
+<option class="spacer" value="NCA"> </option>
+<option class="lang" value="SHP">—HR—</option>
+<option value="SHP">SHP</option>
+<option value="HNZ-RI">HNZ-RI</option>
+<option value="CRO">CRO</option>
+<option class="spacer" value="CRO"> </option>
+<option class="lang" value="HCV">—HT—</option>
+<option value="HCV">HCV</option>
+<option value="VKF">VKF</option>
+<option class="spacer" value="VKF"> </option>
+<option class="lang" value="KAR">—HU—</option>
+<option value="KAR">KAR</option>
+<option value="ERV-HU">ERV-HU</option>
+<option value="NT-HU">NT-HU</option>
+<option class="spacer" value="NT-HU"> </option>
+<option class="lang" value="HWP">—HWC—</option>
+<option value="HWP">HWP</option>
+<option class="spacer" value="HWP"> </option>
+<option class="lang" value="ICELAND">—IS—</option>
+<option value="ICELAND">ICELAND</option>
+<option class="spacer" value="ICELAND"> </option>
+<option class="lang" value="BDG">—IT—</option>
+<option value="BDG">BDG</option>
+<option value="CEI">CEI</option>
+<option value="LND">LND</option>
+<option value="NR1994">NR1994</option>
+<option value="NR2006">NR2006</option>
+<option class="spacer" value="NR2006"> </option>
+<option class="lang" value="JLB">—JA—</option>
+<option value="JLB">JLB</option>
+<option class="spacer" value="JLB"> </option>
+<option class="lang" value="JAC">—JAC—</option>
+<option value="JAC">JAC</option>
+<option class="spacer" value="JAC"> </option>
+<option class="lang" value="KEK">—KEK—</option>
+<option value="KEK">KEK</option>
+<option class="spacer" value="KEK"> </option>
+<option class="lang" value="KLB">—KO—</option>
+<option value="KLB">KLB</option>
+<option class="spacer" value="KLB"> </option>
+<option class="lang" value="VULGATE">—LA—</option>
+<option value="VULGATE">VULGATE</option>
+<option class="spacer" value="VULGATE"> </option>
+<option class="lang" value="LCB">—LG—</option>
+<option value="LCB">LCB</option>
+<option class="spacer" value="LCB"> </option>
+<option class="lang" value="MAORI">—MI—</option>
+<option value="MAORI">MAORI</option>
+<option class="spacer" value="MAORI"> </option>
+<option class="lang" value="MNT">—MK—</option>
+<option value="MNT">MNT</option>
+<option class="spacer" value="MNT"> </option>
+<option class="lang" value="ERV-MR">—MR—</option>
+<option value="ERV-MR">ERV-MR</option>
+<option class="spacer" value="ERV-MR"> </option>
+<option class="lang" value="MVC">—MVC—</option>
+<option value="MVC">MVC</option>
+<option class="spacer" value="MVC"> </option>
+<option class="lang" value="MVJ">—MVJ—</option>
+<option value="MVJ">MVJ</option>
+<option class="spacer" value="MVJ"> </option>
+<option class="lang" value="REIMER">—NDS—</option>
+<option value="REIMER">REIMER</option>
+<option class="spacer" value="REIMER"> </option>
+<option class="lang" value="ERV-NE">—NE—</option>
+<option value="ERV-NE">ERV-NE</option>
+<option class="spacer" value="ERV-NE"> </option>
+<option class="lang" value="NGU">—NGU—</option>
+<option value="NGU">NGU</option>
+<option class="spacer" value="NGU"> </option>
+<option class="lang" value="BB">—NL—</option>
+<option value="BB">BB</option>
+<option value="HTB">HTB</option>
+<option class="spacer" value="HTB"> </option>
+<option class="lang" value="DNB1930">—NO—</option>
+<option value="DNB1930">DNB1930</option>
+<option value="LB">LB</option>
+<option class="spacer" value="LB"> </option>
+<option class="lang" value="CCL">—NY—</option>
+<option value="CCL">CCL</option>
+<option class="spacer" value="CCL"> </option>
+<option class="lang" value="ERV-OR">—OR—</option>
+<option value="ERV-OR">ERV-OR</option>
+<option class="spacer" value="ERV-OR"> </option>
+<option class="lang" value="ERV-PA">—PA—</option>
+<option value="ERV-PA">ERV-PA</option>
+<option class="spacer" value="ERV-PA"> </option>
+<option class="lang" value="NP">—PL—</option>
+<option value="NP">NP</option>
+<option value="SZ-PL">SZ-PL</option>
+<option value="UBG">UBG</option>
+<option class="spacer" value="UBG"> </option>
+<option class="lang" value="NBTN">—PPL—</option>
+<option value="NBTN">NBTN</option>
+<option class="spacer" value="NBTN"> </option>
+<option class="lang" value="ARC">—PT—</option>
+<option value="ARC">ARC</option>
+<option value="VFL">VFL</option>
+<option value="NTLH">NTLH</option>
+<option value="NVT">NVT</option>
+<option value="NVI-PT">NVI-PT</option>
+<option value="OL">OL</option>
+<option class="spacer" value="OL"> </option>
+<option class="lang" value="MTDS">—QU—</option>
+<option value="MTDS">MTDS</option>
+<option class="spacer" value="MTDS"> </option>
+<option class="lang" value="QUT">—QUT—</option>
+<option value="QUT">QUT</option>
+<option class="spacer" value="QUT"> </option>
+<option class="lang" value="RMNN">—RO—</option>
+<option value="RMNN">RMNN</option>
+<option value="NTLR">NTLR</option>
+<option class="spacer" value="NTLR"> </option>
+<option class="lang" value="NRT">—RU—</option>
+<option value="NRT">NRT</option>
+<option value="CARS">CARS</option>
+<option value="CARST">CARST</option>
+<option value="CARSA">CARSA</option>
+<option value="ERV-RU">ERV-RU</option>
+<option value="RUSV">RUSV</option>
+<option class="spacer" value="RUSV"> </option>
+<option class="lang" value="NPK">—SK—</option>
+<option value="NPK">NPK</option>
+<option class="spacer" value="NPK"> </option>
+<option class="lang" value="SOM">—SO—</option>
+<option value="SOM">SOM</option>
+<option class="spacer" value="SOM"> </option>
+<option class="lang" value="ALB">—SQ—</option>
+<option value="ALB">ALB</option>
+<option class="spacer" value="ALB"> </option>
+<option class="lang" value="NSP">—SR—</option>
+<option value="NSP">NSP</option>
+<option value="ERV-SR">ERV-SR</option>
+<option class="spacer" value="ERV-SR"> </option>
+<option class="lang" value="NUB">—SV—</option>
+<option value="NUB">NUB</option>
+<option value="SV1917">SV1917</option>
+<option value="SFB">SFB</option>
+<option value="SFB15">SFB15</option>
+<option value="SVL">SVL</option>
+<option class="spacer" value="SVL"> </option>
+<option class="lang" value="TKU">—SW—</option>
+<option value="TKU">TKU</option>
+<option value="SNT">SNT</option>
+<option class="spacer" value="SNT"> </option>
+<option class="lang" value="ERV-TA">—TA—</option>
+<option value="ERV-TA">ERV-TA</option>
+<option class="spacer" value="ERV-TA"> </option>
+<option class="lang" value="NTV-BIBLE">—TH—</option>
+<option value="NTV-BIBLE">NTV-BIBLE</option>
+<option value="ERV-TH">ERV-TH</option>
+<option value="TNCV">TNCV</option>
+<option class="spacer" value="TNCV"> </option>
+<option class="lang" value="FSV">—TL—</option>
+<option value="FSV">FSV</option>
+<option value="ABTAG1978">ABTAG1978</option>
+<option value="ABTAG2001">ABTAG2001</option>
+<option value="ADB1905">ADB1905</option>
+<option value="SND">SND</option>
+<option value="ASND">ASND</option>
+<option value="MBBTAG">MBBTAG</option>
+<option value="MBBTAG-DC">MBBTAG-DC</option>
+<option class="spacer" value="MBBTAG-DC"> </option>
+<option class="lang" value="NA-TWI">—TWI—</option>
+<option value="NA-TWI">NA-TWI</option>
+<option class="spacer" value="NA-TWI"> </option>
+<option class="lang" value="UKR">—UK—</option>
+<option value="UKR">UKR</option>
+<option value="ERV-UK">ERV-UK</option>
+<option class="spacer" value="ERV-UK"> </option>
+<option class="lang" value="ERV-UR">—UR—</option>
+<option value="ERV-UR">ERV-UR</option>
+<option class="spacer" value="ERV-UR"> </option>
+<option class="lang" value="USP">—USP—</option>
+<option value="USP">USP</option>
+<option class="spacer" value="USP"> </option>
+<option class="lang" value="BD2011">—VI—</option>
+<option value="BD2011">BD2011</option>
+<option value="NVB">NVB</option>
+<option value="BPT">BPT</option>
+<option class="spacer" value="BPT"> </option>
+<option class="lang" value="BYO">—YO—</option>
+<option value="BYO">BYO</option>
+<option class="spacer" value="BYO"> </option>
+<option class="lang" value="CCB">—ZH—</option>
+<option value="CCB">CCB</option>
+<option value="CCBT">CCBT</option>
+<option value="ERV-ZH">ERV-ZH</option>
+<option value="CNVS">CNVS</option>
+<option value="CNVT">CNVT</option>
+<option value="CSBS">CSBS</option>
+<option value="CSBT">CSBT</option>
+<option value="CUVS">CUVS</option>
+<option value="CUV">CUV</option>
+<option value="CUVMPS">CUVMPS</option>
+<option value="CUVMPT">CUVMPT</option>
+<option value="RCU17SS">RCU17SS</option>
+<option value="RCU17TS">RCU17TS</option>
+</select><button>Update</button></div><div class="passage-text">
+<div class="passage-content passage-class-0"><div class="version-NIV result-text-style-normal text-html">
+<div class="std-text"> <h3><span class="text Ps-23-1" id="en-NIV-14237">Psalm 23</span></h3><h4><span class="text Ps-23-1">A psalm of David.</span></h4><div class="poetry"><p class="line"><span class="text Ps-23-1"><sup class="versenum">1 </sup>The <span class="small-caps" style="font-variant: small-caps">Lord</span> is my shepherd,<sup class="crossreference" data-cr="#cen-NIV-14237A" data-link='(&lt;a href="#cen-NIV-14237A" title="See cross-reference A"&gt;A&lt;/a&gt;)'>(<a href="#cen-NIV-14237A" title="See cross-reference A">A</a>)</sup> I lack nothing.<sup class="crossreference" data-cr="#cen-NIV-14237B" data-link='(&lt;a href="#cen-NIV-14237B" title="See cross-reference B"&gt;B&lt;/a&gt;)'>(<a href="#cen-NIV-14237B" title="See cross-reference B">B</a>)</sup></span><br/><span class="indent-1"><span class="text Ps-23-2" id="en-NIV-14238"><sup class="versenum">2 </sup><span class="indent-1-breaks">    </span>He makes me lie down in green pastures,</span></span><br/><span class="text Ps-23-2">he leads me beside quiet waters,<sup class="crossreference" data-cr="#cen-NIV-14238C" data-link='(&lt;a href="#cen-NIV-14238C" title="See cross-reference C"&gt;C&lt;/a&gt;)'>(<a href="#cen-NIV-14238C" title="See cross-reference C">C</a>)</sup></span><br/><span class="indent-1"><span class="text Ps-23-3" id="en-NIV-14239"><sup class="versenum">3 </sup><span class="indent-1-breaks">    </span>he refreshes my soul.<sup class="crossreference" data-cr="#cen-NIV-14239D" data-link='(&lt;a href="#cen-NIV-14239D" title="See cross-reference D"&gt;D&lt;/a&gt;)'>(<a href="#cen-NIV-14239D" title="See cross-reference D">D</a>)</sup></span></span><br/><span class="text Ps-23-3">He guides me<sup class="crossreference" data-cr="#cen-NIV-14239E" data-link='(&lt;a href="#cen-NIV-14239E" title="See cross-reference E"&gt;E&lt;/a&gt;)'>(<a href="#cen-NIV-14239E" title="See cross-reference E">E</a>)</sup> along the right paths<sup class="crossreference" data-cr="#cen-NIV-14239F" data-link='(&lt;a href="#cen-NIV-14239F" title="See cross-reference F"&gt;F&lt;/a&gt;)'>(<a href="#cen-NIV-14239F" title="See cross-reference F">F</a>)</sup></span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-3">for his name’s sake.<sup class="crossreference" data-cr="#cen-NIV-14239G" data-link='(&lt;a href="#cen-NIV-14239G" title="See cross-reference G"&gt;G&lt;/a&gt;)'>(<a href="#cen-NIV-14239G" title="See cross-reference G">G</a>)</sup></span></span><br/><span class="text Ps-23-4" id="en-NIV-14240"><sup class="versenum">4 </sup>Even though I walk</span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-4">through the darkest valley,<sup class="footnote" data-fn="#fen-NIV-14240a" data-link='[&lt;a href="#fen-NIV-14240a" title="See footnote a"&gt;a&lt;/a&gt;]'>[<a href="#fen-NIV-14240a" title="See footnote a">a</a>]</sup><sup class="crossreference" data-cr="#cen-NIV-14240H" data-link='(&lt;a href="#cen-NIV-14240H" title="See cross-reference H"&gt;H&lt;/a&gt;)'>(<a href="#cen-NIV-14240H" title="See cross-reference H">H</a>)</sup></span></span><br/><span class="text Ps-23-4">I will fear no evil,<sup class="crossreference" data-cr="#cen-NIV-14240I" data-link='(&lt;a href="#cen-NIV-14240I" title="See cross-reference I"&gt;I&lt;/a&gt;)'>(<a href="#cen-NIV-14240I" title="See cross-reference I">I</a>)</sup></span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-4">for you are with me;<sup class="crossreference" data-cr="#cen-NIV-14240J" data-link='(&lt;a href="#cen-NIV-14240J" title="See cross-reference J"&gt;J&lt;/a&gt;)'>(<a href="#cen-NIV-14240J" title="See cross-reference J">J</a>)</sup></span></span><br/><span class="text Ps-23-4">your rod and your staff,</span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-4">they comfort me.</span></span></p></div> <div class="poetry top-05"><p class="line"><span class="text Ps-23-5" id="en-NIV-14241"><sup class="versenum">5 </sup>You prepare a table<sup class="crossreference" data-cr="#cen-NIV-14241K" data-link='(&lt;a href="#cen-NIV-14241K" title="See cross-reference K"&gt;K&lt;/a&gt;)'>(<a href="#cen-NIV-14241K" title="See cross-reference K">K</a>)</sup> before me</span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-5">in the presence of my enemies.</span></span><br/><span class="text Ps-23-5">You anoint my head with oil;<sup class="crossreference" data-cr="#cen-NIV-14241L" data-link='(&lt;a href="#cen-NIV-14241L" title="See cross-reference L"&gt;L&lt;/a&gt;)'>(<a href="#cen-NIV-14241L" title="See cross-reference L">L</a>)</sup></span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-5">my cup<sup class="crossreference" data-cr="#cen-NIV-14241M" data-link='(&lt;a href="#cen-NIV-14241M" title="See cross-reference M"&gt;M&lt;/a&gt;)'>(<a href="#cen-NIV-14241M" title="See cross-reference M">M</a>)</sup> overflows.</span></span><br/><span class="text Ps-23-6" id="en-NIV-14242"><sup class="versenum">6 </sup>Surely your goodness and love<sup class="crossreference" data-cr="#cen-NIV-14242N" data-link='(&lt;a href="#cen-NIV-14242N" title="See cross-reference N"&gt;N&lt;/a&gt;)'>(<a href="#cen-NIV-14242N" title="See cross-reference N">N</a>)</sup> will follow me</span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-6">all the days of my life,</span></span><br/><span class="text Ps-23-6">and I will dwell in the house of the <span class="small-caps" style="font-variant: small-caps">Lord</span></span><br/><span class="indent-1"><span class="indent-1-breaks">    </span><span class="text Ps-23-6">forever.</span></span></p></div> </div><div class="il-text"></div><div class="footnotes">
+<h4>Footnotes</h4><ol><li id="fen-NIV-14240a"><a href="#en-NIV-14240" title="Go to Psalm 23:4">Psalm 23:4</a> <span class="footnote-text">Or <i>the valley of the shadow of death</i></span></li>
+</ol></div> <!--end of footnotes-->
+<div class="crossrefs hidden">
+<h4>Cross references</h4><ol><li id="cen-NIV-14237A"><a href="#en-NIV-14237" title="Go to Psalm 23:1">Psalm 23:1</a> : <a class="crossref-link" data-bibleref="Genesis 48:15, Psalm 28:9, John 10:11" href="/passage/?search=Genesis+48%3A15%2CPsalm+28%3A9%2CJohn+10%3A11&amp;version=NIV">S Ge 48:15; S Ps 28:9; S Jn 10:11</a></li>
+<li id="cen-NIV-14237B"><a href="#en-NIV-14237" title="Go to Psalm 23:1">Psalm 23:1</a> : <a class="crossref-link" data-bibleref="Psalm 34:9, Psalm 34:10, Psalm 84:11, Psalm 107:9, Philippians 4:19" href="/passage/?search=Psalm+34%3A9%2CPsalm+34%3A10%2CPsalm+84%3A11%2CPsalm+107%3A9%2CPhilippians+4%3A19&amp;version=NIV">Ps 34:9, 10; 84:11; 107:9; Php 4:19</a></li>
+<li id="cen-NIV-14238C"><a href="#en-NIV-14238" title="Go to Psalm 23:2">Psalm 23:2</a> : <a class="crossref-link" data-bibleref="Psalm 36:8, Psalm 46:4, Revelation 7:17" href="/passage/?search=Psalm+36%3A8%2CPsalm+46%3A4%2CRevelation+7%3A17&amp;version=NIV">Ps 36:8; 46:4; Rev 7:17</a></li>
+<li id="cen-NIV-14239D"><a href="#en-NIV-14239" title="Go to Psalm 23:3">Psalm 23:3</a> : <a class="crossref-link" data-bibleref="Psalm 19:7" href="/passage/?search=Psalm+19%3A7&amp;version=NIV">S Ps 19:7</a></li>
+<li id="cen-NIV-14239E"><a href="#en-NIV-14239" title="Go to Psalm 23:3">Psalm 23:3</a> : <a class="crossref-link" data-bibleref="Psalm 25:9, Psalm 73:24, Isaiah 42:16" href="/passage/?search=Psalm+25%3A9%2CPsalm+73%3A24%2CIsaiah+42%3A16&amp;version=NIV">Ps 25:9; 73:24; Isa 42:16</a></li>
+<li id="cen-NIV-14239F"><a href="#en-NIV-14239" title="Go to Psalm 23:3">Psalm 23:3</a> : <a class="crossref-link" data-bibleref="Psalm 5:8" href="/passage/?search=Psalm+5%3A8&amp;version=NIV">S Ps 5:8</a></li>
+<li id="cen-NIV-14239G"><a href="#en-NIV-14239" title="Go to Psalm 23:3">Psalm 23:3</a> : <a class="crossref-link" data-bibleref="Psalm 25:11, Psalm 31:3, Psalm 79:9, Psalm 106:8, Psalm 109:21, Psalm 143:11" href="/passage/?search=Psalm+25%3A11%2CPsalm+31%3A3%2CPsalm+79%3A9%2CPsalm+106%3A8%2CPsalm+109%3A21%2CPsalm+143%3A11&amp;version=NIV">Ps 25:11; 31:3; 79:9; 106:8; 109:21; 143:11</a></li>
+<li id="cen-NIV-14240H"><a href="#en-NIV-14240" title="Go to Psalm 23:4">Psalm 23:4</a> : <a class="crossref-link" data-bibleref="Job 3:5, Psalm 107:14" href="/passage/?search=Job+3%3A5%2CPsalm+107%3A14&amp;version=NIV">S Job 3:5; Ps 107:14</a></li>
+<li id="cen-NIV-14240I"><a href="#en-NIV-14240" title="Go to Psalm 23:4">Psalm 23:4</a> : <a class="crossref-link" data-bibleref="Psalm 3:6, Psalm 27:1" href="/passage/?search=Psalm+3%3A6%2CPsalm+27%3A1&amp;version=NIV">Ps 3:6; 27:1</a></li>
+<li id="cen-NIV-14240J"><a href="#en-NIV-14240" title="Go to Psalm 23:4">Psalm 23:4</a> : <a class="crossref-link" data-bibleref="Psalm 16:8, Isaiah 43:2" href="/passage/?search=Psalm+16%3A8%2CIsaiah+43%3A2&amp;version=NIV">Ps 16:8; Isa 43:2</a></li>
+<li id="cen-NIV-14241K"><a href="#en-NIV-14241" title="Go to Psalm 23:5">Psalm 23:5</a> : <a class="crossref-link" data-bibleref="Job 36:16" href="/passage/?search=Job+36%3A16&amp;version=NIV">S Job 36:16</a></li>
+<li id="cen-NIV-14241L"><a href="#en-NIV-14241" title="Go to Psalm 23:5">Psalm 23:5</a> : <a class="crossref-link" data-bibleref="Psalm 45:7, Psalm 92:10, Luke 7:46" href="/passage/?search=Psalm+45%3A7%2CPsalm+92%3A10%2CLuke+7%3A46&amp;version=NIV">Ps 45:7; 92:10; Lk 7:46</a></li>
+<li id="cen-NIV-14241M"><a href="#en-NIV-14241" title="Go to Psalm 23:5">Psalm 23:5</a> : <a class="crossref-link" data-bibleref="Psalm 16:5" href="/passage/?search=Psalm+16%3A5&amp;version=NIV">S Ps 16:5</a></li>
+<li id="cen-NIV-14242N"><a href="#en-NIV-14242" title="Go to Psalm 23:6">Psalm 23:6</a> : <a class="crossref-link" data-bibleref="Nehemiah 9:25" href="/passage/?search=Nehemiah+9%3A25&amp;version=NIV">S Ne 9:25</a></li>
+</ol></div> <!--end of crossrefs-->
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="passage-scroller">
+<a class="prev-link" href="/passage/?search=Psalm%2022&amp;version=NIV" title="Psalm 22"><div class="nav"><div class="icon-passage-prev"><svg height="21.5" viewbox="0 0 11.5 21.5" width="11.5" xmlns="http://www.w3.org/2000/svg"><title>Next</title><path d="M10.75 0a.74.74 0 0 1 .53.22.75.75 0 0 1 0 1.06l-9.47 9.47 9.47 9.47a.75.75 0 1 1-1.06 1.06l-10-10a.75.75 0 0 1 0-1.06l10-10a.73.73 0 0 1 .53-.22z"></path></svg>
+</div><div class="heading">Psalm 22</div></div></a><a class="next-link" href="/passage/?search=Psalm%2024&amp;version=NIV" title="Psalm 24"><div class="nav"><div class="heading">Psalm 24</div><div class="icon-passage-next"><svg height="21.5" viewbox="0 0 11.5 21.5" width="11.5" xmlns="http://www.w3.org/2000/svg"><title>Next</title><path d="M.75 21.5a.74.74 0 0 1-.53-.22.75.75 0 0 1 0-1.06l9.47-9.47L.22 1.28A.75.75 0 0 1 1.28.22l10 10a.75.75 0 0 1 0 1.06l-10 10a.74.74 0 0 1-.53.22z"></path></svg>
+</div></div></a> </div>
+</div>
+1 The Lord is my shepherd, I lack nothing.
+2     He makes me lie down in green pastures,
+he leads me beside quiet waters,
+3     he refreshes my soul.
+He guides me along the right paths
+    for his name’s sake.
+4 Even though I walk
+    through the darkest valley,
+I will fear no evil,
+    for you are with me;
+your rod and your staff,
+    they comfort me.
+
+5 You prepare a table before me
+    in the presence of my enemies.
+You anoint my head with oil;
+    my cup overflows.
+6 Surely your goodness and love will follow me
+    all the days of my life,
+and I will dwell in the house of the Lord
+    forever.
